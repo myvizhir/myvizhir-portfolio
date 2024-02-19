@@ -9,8 +9,8 @@
   
 ### An Information Technology Student  
 
-- 👨‍💻 I’m currently working on technologies like Java, Javascript, etc..
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on learning technologies like Java, SpringBoot, Hibernate, Web Services etc..
+- 📚 I’m currently trying to understand everything about Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
   
